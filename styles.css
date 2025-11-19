@@ -1,5 +1,8 @@
 body{
 color: blue;
 background: cornsilk;
-
+}
+header{
+    border-bottom: solid 2px rgb(hsl(225, 100%, 50%));
+padding: 20px;
 }
