@@ -9,3 +9,10 @@ padding: 20px;
  color: blue;
  background-color: blueviolet;
 }
+.chamada{
+    background-color: darkcyan;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
